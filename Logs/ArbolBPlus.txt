@@ -1,0 +1,10 @@
+Buenos Aires 3000000
+Cordoba 1500000
+Rosario 1000000
+Mendoza 900000
+Salta 700000
+La Plata 800000
+Mar del Plata 500000
+Santa Fe 600000
+San Juan 450000
+Tucuman 650000
