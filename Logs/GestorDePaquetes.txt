@@ -1,0 +1,10 @@
+Cordoba 5
+Mendoza 8
+Salta 4
+La Plata 3
+Mar del Plata 6
+Tucuman 7
+Santa Fe 2
+San Juan 9
+Rosario 1
+Buenos Aires 10

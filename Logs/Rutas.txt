@@ -1,0 +1,20 @@
+Buenos Aires Cordoba 700
+Buenos Aires Rosario 300
+Buenos Aires La Plata 60
+Buenos Aires Mar del Plata 400
+Cordoba Rosario 400
+Cordoba Mendoza 700
+Rosario Santa Fe 170
+Mendoza San Juan 170
+Salta Tucuman 300
+Salta Cordoba 1000
+Santa Fe Cordoba 350
+Santa Fe Buenos Aires 450
+La Plata Mar del Plata 380
+Rosario Buenos Aires 300
+Tucuman Salta 300
+San Juan Mendoza 170
+Mar del Plata Buenos Aires 400
+Mendoza Cordoba 700
+Cordoba San Juan 700
+Rosario Santa Fe 170
